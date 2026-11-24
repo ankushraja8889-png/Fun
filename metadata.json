@@ -1,0 +1,10 @@
+{
+  "name": "ZooPals 3D",
+  "description": "Realistic Zootopia-inspired 3D interactive talking animal companion game with voice conversation, dynamic anger and mood reactions, and full facial customization.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
